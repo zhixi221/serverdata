@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"glass"},
+		{"item": "black_dye"}
+	],
+	"result":{
+		"item":"minecraft:black_stained_glass",
+		"count":1
+	}
+}

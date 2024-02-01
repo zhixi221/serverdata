@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		"BBB",
+		"BAB",
+		"BBB"
+	],
+	"key":{
+		"B":{
+			"tag": "general:concretes"
+		},
+		"A": {
+			"item": "black_dye"
+		}
+	},
+	"result":{
+		"item":"minecraft:black_concrete",
+		"count":8
+	}
+}

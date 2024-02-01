@@ -1,0 +1,10 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"white_stained_glass"}
+	],
+	"result":{
+		"item":"minecraft:white_stained_glass_pane",
+		"count":2
+	}
+}

@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"terracotta"},
+		{"item": "light_blue_dye"}
+	],
+	"result":{
+		"item":"minecraft:light_blue_terracotta",
+		"count":1
+	}
+}

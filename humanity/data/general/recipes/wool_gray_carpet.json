@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		"BBB",
+		"BAB",
+		"BBB"
+	],
+	"key":{
+		"B":{
+			"tag": "general:carpet"
+		},
+		"A": {
+			"item": "gray_dye"
+		}
+	},
+	"result":{
+		"item":"minecraft:gray_carpet",
+		"count":8
+	}
+}
