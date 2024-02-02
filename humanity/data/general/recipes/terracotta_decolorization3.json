@@ -1,0 +1,19 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"water_bucket"},
+		[
+			{"tag":"general:terracottas"}
+		],
+		[
+			{"tag":"general:terracottas"}
+		],
+		[
+			{"tag":"general:terracottas"}
+		]
+	],
+	"result":{
+		"item":"minecraft:terracotta",
+		"count":3
+	}
+}

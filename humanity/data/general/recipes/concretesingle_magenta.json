@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"tag":"general:concretes"},
+		{"item": "magenta_dye"}
+	],
+	"result":{
+		"item":"minecraft:magenta_concrete",
+		"count":1
+	}
+}

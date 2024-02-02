@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"chain"},
+		{"item": "stripped_spruce_log"}
+	],
+	"result":{
+		"item":"minecraft:spruce_hanging_sign",
+		"count":1
+	}
+}

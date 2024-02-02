@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"glass"},
+		{"item": "magenta_dye"}
+	],
+	"result":{
+		"item":"minecraft:magenta_stained_glass",
+		"count":1
+	}
+}

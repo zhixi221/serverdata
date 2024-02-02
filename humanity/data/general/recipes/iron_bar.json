@@ -1,0 +1,8 @@
+{
+	"type": "stonecutting",
+	"ingredient": {
+		"item": "iron_ingot"
+	},
+	"result": "iron_bars",
+	"count": 2
+}

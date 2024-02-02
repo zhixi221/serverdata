@@ -1,0 +1,11 @@
+{
+	"type":"crafting_shapeless",
+	"ingredients": [
+		{"item":"chain"},
+		{"item": "stripped_warped_stem"}
+	],
+	"result":{
+		"item":"minecraft:warped_hanging_sign",
+		"count":1
+	}
+}

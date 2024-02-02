@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		"BBB",
+		"BAB",
+		"BBB"
+	],
+	"key":{
+		"B":{
+			"tag": "general:wools"
+		},
+		"A": {
+			"item": "brown_dye"
+		}
+	},
+	"result":{
+		"item":"minecraft:brown_wool",
+		"count":8
+	}
+}

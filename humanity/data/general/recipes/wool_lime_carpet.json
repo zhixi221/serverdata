@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		"BBB",
+		"BAB",
+		"BBB"
+	],
+	"key":{
+		"B":{
+			"tag": "general:carpet"
+		},
+		"A": {
+			"item": "lime_dye"
+		}
+	},
+	"result":{
+		"item":"minecraft:lime_carpet",
+		"count":8
+	}
+}

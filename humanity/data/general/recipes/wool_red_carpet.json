@@ -1,0 +1,20 @@
+{
+	"type":"crafting_shaped",
+	"pattern":[
+		"BBB",
+		"BAB",
+		"BBB"
+	],
+	"key":{
+		"B":{
+			"tag": "general:carpet"
+		},
+		"A": {
+			"item": "red_dye"
+		}
+	},
+	"result":{
+		"item":"minecraft:red_carpet",
+		"count":8
+	}
+}
