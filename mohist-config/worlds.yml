@@ -1,0 +1,27 @@
+worlds:
+  world:
+    worldborder: 5.9999968E7
+    seed: 956844485509335545
+    environment: NORMAL
+    name: world
+    info: -/-
+    difficulty: EASY
+    mohist: false
+  DIM1:
+    worldborder: 5.9999968E7
+  DIM-1:
+    worldborder: 5.9999968E7
+  wither:
+    worldborder: 5.9999968E7
+    seed: 2963315845243802785
+    environment: NORMAL
+    name: wither
+    info: -/-
+    difficulty: HARD
+    mohist: false
+  otherside:
+    worldborder: 5.9999968E7
+  bowels:
+    worldborder: 5.9999968E7
+  twilight_forest:
+    worldborder: 5.9999968E7
